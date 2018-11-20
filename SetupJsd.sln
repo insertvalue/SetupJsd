@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupJsd", "SetupJsd\SetupJsd.vdproj", "{2077FC74-6E43-4A97-8983-57BE635F32E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2077FC74-6E43-4A97-8983-57BE635F32E7}.Debug|Default.ActiveCfg = Debug
+		{2077FC74-6E43-4A97-8983-57BE635F32E7}.Debug|Default.Build.0 = Debug
+		{2077FC74-6E43-4A97-8983-57BE635F32E7}.Release|Default.ActiveCfg = Release
+		{2077FC74-6E43-4A97-8983-57BE635F32E7}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9E79996-C226-4801-84F0-B615C8A6718A}
+	EndGlobalSection
+EndGlobal
